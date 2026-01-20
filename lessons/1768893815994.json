@@ -16,6 +16,11 @@
       "type": "code",
       "content": "main(){\n   print('hello');\n}",
       "metadata": null
+    },
+    {
+      "type": "practice",
+      "content": "Bài tập",
+      "metadata": null
     }
   ]
 }
