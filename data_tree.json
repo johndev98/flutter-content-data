@@ -46,6 +46,32 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1769130404577",
+      "title": "dev mobile",
+      "type": "folder",
+      "hash": null,
+      "isPublished": true,
+      "children": [
+        {
+          "id": "1769130419982",
+          "title": "Flutter",
+          "type": "folder",
+          "hash": null,
+          "isPublished": true,
+          "children": [
+            {
+              "id": "1769130427492",
+              "title": "Giới thiệu flutter",
+              "type": "lesson",
+              "hash": null,
+              "isPublished": true,
+              "children": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
