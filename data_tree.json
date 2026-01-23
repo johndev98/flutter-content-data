@@ -10,8 +10,8 @@
     {
       "id": "1768896759835",
       "title": "Programming",
-      "subtitle": "c++",
-      "imageUrl": "",
+      "subtitle": "C++, Python, Java, JavaScript, Dart, Swift and more",
+      "imageUrl": "https://images.pexels.com/photos/16129703/pexels-photo-16129703.jpeg",
       "type": "folder",
       "hash": null,
       "isPublished": true,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1769130404577",
-      "title": "dev mobile",
+      "title": "Dev mobile",
       "subtitle": "Flutter, React Native, SwiftUI",
       "imageUrl": "https://images.pexels.com/photos/3888151/pexels-photo-3888151.jpeg",
       "type": "folder",
@@ -90,6 +90,16 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1769153352259",
+      "title": "Dev Web ",
+      "subtitle": "ReactJS, NextJS, NestJS",
+      "imageUrl": "https://images.pexels.com/photos/3888151/pexels-photo-3888151.jpeg",
+      "type": "folder",
+      "hash": null,
+      "isPublished": true,
+      "children": []
     }
   ]
 }
