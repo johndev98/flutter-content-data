@@ -1,6 +1,8 @@
 {
   "id": "root",
   "title": "Root",
+  "subtitle": "",
+  "imageUrl": "",
   "type": "folder",
   "hash": null,
   "isPublished": false,
@@ -8,6 +10,8 @@
     {
       "id": "1768896759835",
       "title": "Programming",
+      "subtitle": "c++",
+      "imageUrl": "https://www.bairesdev.com/blog/choose-right-programming-language/",
       "type": "folder",
       "hash": null,
       "isPublished": true,
@@ -15,6 +19,8 @@
         {
           "id": "1768896767784",
           "title": "Dart",
+          "subtitle": "",
+          "imageUrl": "",
           "type": "folder",
           "hash": null,
           "isPublished": true,
@@ -22,6 +28,8 @@
             {
               "id": "1768896778181",
               "title": "Giới thiệu về Dart",
+              "subtitle": "",
+              "imageUrl": "",
               "type": "lesson",
               "hash": "f8d5961e1ec723580d242b6379eaa250191df62f9726c07d60f92a0206155abf",
               "isPublished": true,
@@ -30,6 +38,8 @@
             {
               "id": "1768896784446",
               "title": "Biến",
+              "subtitle": "",
+              "imageUrl": "",
               "type": "lesson",
               "hash": "324913e280592548eb72cfa9bc16c960e02f2542f9239dc02e6e7bd0adff7adb",
               "isPublished": true,
@@ -38,6 +48,8 @@
             {
               "id": "1769071145237",
               "title": "Loop",
+              "subtitle": "",
+              "imageUrl": "",
               "type": "lesson",
               "hash": "d82f5cdc1d156c3af19e0c2cfe0aa4d6046ed39b7763b7b4c874c37766782c31",
               "isPublished": false,
@@ -50,6 +62,8 @@
     {
       "id": "1769130404577",
       "title": "dev mobile",
+      "subtitle": "",
+      "imageUrl": "",
       "type": "folder",
       "hash": null,
       "isPublished": true,
@@ -57,6 +71,8 @@
         {
           "id": "1769130419982",
           "title": "Flutter",
+          "subtitle": "",
+          "imageUrl": "",
           "type": "folder",
           "hash": null,
           "isPublished": true,
@@ -64,6 +80,8 @@
             {
               "id": "1769130427492",
               "title": "Giới thiệu flutter",
+              "subtitle": "",
+              "imageUrl": "",
               "type": "lesson",
               "hash": null,
               "isPublished": true,
