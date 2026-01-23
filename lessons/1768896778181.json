@@ -1,1 +1,1 @@
-{"theory":[{"type":"heading","content":"dart là"}],"quizzes":[{"q":"quiz 1","opts":["đáp án đúng","sai","sai","sai"],"ans":0}],"practices":[{"q":"khai báo biến x = 5","ans":"int x = 5 ;"}]}
+{"theory":[{"type":"heading","content":"dart là"}],"quizzes":[{"q":"quiz 1","opts":["đáp án đúng","sai","sai","sai"],"ans":0},{"q":"câu 2","opts":["y","n","n","n"],"ans":0}],"practices":[{"q":"khai báo biến x = 5","ans":"int x = 5 ;"}]}
