@@ -6,6 +6,7 @@
   "type": "folder",
   "hash": null,
   "isPublished": false,
+  "tags": [],
   "children": [
     {
       "id": "1768896759835",
@@ -15,6 +16,7 @@
       "type": "folder",
       "hash": null,
       "isPublished": true,
+      "tags": [],
       "children": [
         {
           "id": "1768896767784",
@@ -24,6 +26,9 @@
           "type": "folder",
           "hash": null,
           "isPublished": true,
+          "tags": [
+            "programming"
+          ],
           "children": [
             {
               "id": "1768896778181",
@@ -33,6 +38,7 @@
               "type": "lesson",
               "hash": "255aee3e68f3b5884740c5f9f400793dc482090d628f09a1cd4ef98e187381fb",
               "isPublished": true,
+              "tags": [],
               "children": []
             },
             {
@@ -43,6 +49,7 @@
               "type": "lesson",
               "hash": "324913e280592548eb72cfa9bc16c960e02f2542f9239dc02e6e7bd0adff7adb",
               "isPublished": true,
+              "tags": [],
               "children": []
             },
             {
@@ -53,6 +60,32 @@
               "type": "lesson",
               "hash": "d82f5cdc1d156c3af19e0c2cfe0aa4d6046ed39b7763b7b4c874c37766782c31",
               "isPublished": false,
+              "tags": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1769246491799",
+          "title": "Swift",
+          "subtitle": "",
+          "imageUrl": "",
+          "type": "folder",
+          "hash": null,
+          "isPublished": true,
+          "tags": [
+            "programming"
+          ],
+          "children": [
+            {
+              "id": "1769246547427",
+              "title": "Giới thiệu Swift",
+              "subtitle": "",
+              "imageUrl": "",
+              "type": "lesson",
+              "hash": null,
+              "isPublished": true,
+              "tags": [],
               "children": []
             }
           ]
@@ -67,6 +100,7 @@
       "type": "folder",
       "hash": null,
       "isPublished": true,
+      "tags": [],
       "children": [
         {
           "id": "1769130419982",
@@ -76,6 +110,7 @@
           "type": "folder",
           "hash": null,
           "isPublished": true,
+          "tags": [],
           "children": [
             {
               "id": "1769130427492",
@@ -85,6 +120,7 @@
               "type": "lesson",
               "hash": null,
               "isPublished": true,
+              "tags": [],
               "children": []
             }
           ]
@@ -99,6 +135,7 @@
       "type": "folder",
       "hash": null,
       "isPublished": true,
+      "tags": [],
       "children": []
     }
   ]
