@@ -7,6 +7,7 @@
   "hash": null,
   "isPublished": false,
   "tags": [],
+  "searchKeys": [],
   "children": [
     {
       "id": "1768896759835",
@@ -17,6 +18,7 @@
       "hash": null,
       "isPublished": true,
       "tags": [],
+      "searchKeys": [],
       "children": [
         {
           "id": "1768896767784",
@@ -29,6 +31,9 @@
           "tags": [
             "programming_language"
           ],
+          "searchKeys": [
+            "dart"
+          ],
           "children": [
             {
               "id": "1768896778181",
@@ -39,6 +44,7 @@
               "hash": "33cd5d3d279253c69ad2efe986f37263229cf54abdb71a8f6b4e44f2e82f8118",
               "isPublished": true,
               "tags": [],
+              "searchKeys": [],
               "children": []
             },
             {
@@ -49,7 +55,13 @@
               "type": "lesson",
               "hash": "324913e280592548eb72cfa9bc16c960e02f2542f9239dc02e6e7bd0adff7adb",
               "isPublished": true,
-              "tags": [],
+              "tags": [
+                ""
+              ],
+              "searchKeys": [
+                "biến dart",
+                "var dart"
+              ],
               "children": []
             },
             {
@@ -61,6 +73,7 @@
               "hash": "d82f5cdc1d156c3af19e0c2cfe0aa4d6046ed39b7763b7b4c874c37766782c31",
               "isPublished": false,
               "tags": [],
+              "searchKeys": [],
               "children": []
             }
           ]
@@ -76,6 +89,9 @@
           "tags": [
             "programming_language"
           ],
+          "searchKeys": [
+            "swift"
+          ],
           "children": [
             {
               "id": "1769246547427",
@@ -86,6 +102,7 @@
               "hash": null,
               "isPublished": true,
               "tags": [],
+              "searchKeys": [],
               "children": []
             }
           ]
@@ -101,6 +118,7 @@
       "hash": null,
       "isPublished": true,
       "tags": [],
+      "searchKeys": [],
       "children": [
         {
           "id": "1769130419982",
@@ -111,6 +129,7 @@
           "hash": null,
           "isPublished": true,
           "tags": [],
+          "searchKeys": [],
           "children": [
             {
               "id": "1769130427492",
@@ -121,6 +140,7 @@
               "hash": null,
               "isPublished": true,
               "tags": [],
+              "searchKeys": [],
               "children": []
             }
           ]
@@ -136,6 +156,7 @@
       "hash": null,
       "isPublished": true,
       "tags": [],
+      "searchKeys": [],
       "children": []
     }
   ]
