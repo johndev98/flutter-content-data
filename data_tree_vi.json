@@ -28,7 +28,9 @@
           "type": "folder",
           "hash": null,
           "isPublished": true,
-          "tags": [],
+          "tags": [
+            "programming_language"
+          ],
           "searchKeys": [],
           "children": [
             {
