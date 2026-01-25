@@ -19,7 +19,33 @@
       "isPublished": true,
       "tags": [],
       "searchKeys": [],
-      "children": []
+      "children": [
+        {
+          "id": "1769342780243",
+          "title": "Dart",
+          "subtitle": "",
+          "imageUrl": "",
+          "type": "folder",
+          "hash": null,
+          "isPublished": true,
+          "tags": [],
+          "searchKeys": [],
+          "children": [
+            {
+              "id": "1769342801291",
+              "title": "Intro Dart",
+              "subtitle": "",
+              "imageUrl": "",
+              "type": "lesson",
+              "hash": null,
+              "isPublished": true,
+              "tags": [],
+              "searchKeys": [],
+              "children": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
