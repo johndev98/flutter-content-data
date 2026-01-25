@@ -1,0 +1,25 @@
+{
+  "id": "root",
+  "title": "Root (en)",
+  "subtitle": "",
+  "imageUrl": "",
+  "type": "folder",
+  "hash": null,
+  "isPublished": false,
+  "tags": [],
+  "searchKeys": [],
+  "children": [
+    {
+      "id": "1769342681702",
+      "title": "programming",
+      "subtitle": "",
+      "imageUrl": "",
+      "type": "folder",
+      "hash": null,
+      "isPublished": true,
+      "tags": [],
+      "searchKeys": [],
+      "children": []
+    }
+  ]
+}
