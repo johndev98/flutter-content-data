@@ -1,0 +1,51 @@
+{
+  "id": "root",
+  "title": "Root (en)",
+  "subtitle": "",
+  "imageUrl": "",
+  "type": "folder",
+  "hash": null,
+  "isPublished": false,
+  "tags": [],
+  "searchKeys": [],
+  "children": [
+    {
+      "id": "1769343138324",
+      "title": "Programmings",
+      "subtitle": "",
+      "imageUrl": "",
+      "type": "folder",
+      "hash": null,
+      "isPublished": true,
+      "tags": [],
+      "searchKeys": [],
+      "children": [
+        {
+          "id": "1769343146065",
+          "title": "Dart",
+          "subtitle": "",
+          "imageUrl": "",
+          "type": "folder",
+          "hash": null,
+          "isPublished": true,
+          "tags": [],
+          "searchKeys": [],
+          "children": [
+            {
+              "id": "1769343154731",
+              "title": "Intro Dart",
+              "subtitle": "",
+              "imageUrl": "",
+              "type": "lesson",
+              "hash": null,
+              "isPublished": true,
+              "tags": [],
+              "searchKeys": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
