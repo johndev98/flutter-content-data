@@ -1,0 +1,51 @@
+{
+  "id": "root",
+  "title": "Root (vi)",
+  "subtitle": "",
+  "imageUrl": "",
+  "type": "folder",
+  "hash": null,
+  "isPublished": false,
+  "tags": [],
+  "searchKeys": [],
+  "children": [
+    {
+      "id": "1769343092931",
+      "title": "Ngôn ngữ lập trình",
+      "subtitle": "",
+      "imageUrl": "",
+      "type": "folder",
+      "hash": null,
+      "isPublished": true,
+      "tags": [],
+      "searchKeys": [],
+      "children": [
+        {
+          "id": "1769343102452",
+          "title": "Dart",
+          "subtitle": "",
+          "imageUrl": "",
+          "type": "folder",
+          "hash": null,
+          "isPublished": true,
+          "tags": [],
+          "searchKeys": [],
+          "children": [
+            {
+              "id": "1769343115040",
+              "title": "Giới thiệu Dart",
+              "subtitle": "",
+              "imageUrl": "",
+              "type": "lesson",
+              "hash": null,
+              "isPublished": true,
+              "tags": [],
+              "searchKeys": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
