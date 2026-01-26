@@ -1,5 +1,6 @@
 {
   "min_app_version": "1.0.0",
-  "maintenance_mode": true,
+  "update_message": "Phiên bản này sửa lỗi nghiêm trọng và thêm giao diện mới. Vui lòng cập nhật ngay!",
+  "maintenance_mode": false,
   "maintenance_message": "Hệ thống đang bảo trì để nâng cấp, vui lòng quay lại sau."
 }
