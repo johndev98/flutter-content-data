@@ -1,5 +1,5 @@
 {
   "min_app_version": "1.0.0",
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "maintenance_message": "Hệ thống đang bảo trì để nâng cấp, vui lòng quay lại sau."
 }
