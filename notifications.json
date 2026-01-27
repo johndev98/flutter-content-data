@@ -1,3 +1,11 @@
 {
-  "notifications": []
+  "notifications": [
+    {
+      "id": 1769487356653,
+      "title": "Thông báo 1",
+      "body": "bài học ",
+      "date": "2026-01-27",
+      "is_active": true
+    }
+  ]
 }
