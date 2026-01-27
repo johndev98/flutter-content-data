@@ -1,6 +1,13 @@
 {
   "notifications": [
     {
+      "id": 1769497685828,
+      "title": "Thông báo đẩy",
+      "body": "122",
+      "date": "2026-01-27",
+      "is_active": true
+    },
+    {
       "id": 1769487356653,
       "title": "Thông báo 1",
       "body": "bài học ",
