@@ -1,6 +1,13 @@
 {
   "notifications": [
     {
+      "id": 1769492268496,
+      "title": "thông báo 6",
+      "body": "bài 6",
+      "date": "2026-01-27",
+      "is_active": true
+    },
+    {
       "id": 1769492009374,
       "title": "thông báo 5",
       "body": "bài 5",
