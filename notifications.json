@@ -1,34 +1,6 @@
 {
   "notifications": [
     {
-      "id": 1769496595424,
-      "title": "thông báo đẩy",
-      "body": "ádád",
-      "date": "2026-01-27",
-      "is_active": true
-    },
-    {
-      "id": 1769496321390,
-      "title": "thông báo 4",
-      "body": "b4",
-      "date": "2026-01-27",
-      "is_active": true
-    },
-    {
-      "id": 1769494384872,
-      "title": "thông báo 3",
-      "body": "bài học 3",
-      "date": "2026-01-27",
-      "is_active": true
-    },
-    {
-      "id": 1769487713749,
-      "title": "thông báo 2",
-      "body": "bài học 2",
-      "date": "2026-01-27",
-      "is_active": true
-    },
-    {
       "id": 1769487356653,
       "title": "Thông báo 1",
       "body": "bài học ",
