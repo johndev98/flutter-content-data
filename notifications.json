@@ -1,11 +1,3 @@
 {
-  "notifications": [
-    {
-      "id": 1769486458030,
-      "title": "Khoá học mới",
-      "body": "Python nâng cao",
-      "date": "2026-01-27",
-      "is_active": true
-    }
-  ]
+  "notifications": []
 }
