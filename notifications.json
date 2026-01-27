@@ -1,0 +1,11 @@
+{
+  "notifications": [
+    {
+      "id": 1769483210229,
+      "title": "Bài học",
+      "body": "Đã thêm khoái học python nâng cao",
+      "date": "2026-01-27",
+      "is_active": true
+    }
+  ]
+}
