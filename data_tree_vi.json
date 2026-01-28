@@ -52,7 +52,7 @@
               "imageUrl": "",
               "type": "lesson",
               "hash": "e0dcc5261f3b41aa484bf7191d67a1f029e59e14fee8ce110314123d46066705",
-              "isPublished": false,
+              "isPublished": true,
               "tags": [],
               "searchKeys": [],
               "children": []
