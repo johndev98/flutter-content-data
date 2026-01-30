@@ -1,1 +1,1 @@
-{"theory":[{"type":"heading","content":"giói thiêụ về ngôn ngữ dart new"}],"quizzes":[],"practices":[{"q":"","ans":["int","x","=","1",";"],"hint":"","lang":"dart","type":"block"}]}
+{"theory":[{"type":"heading","content":"giói thiêụ về ngôn ngữ dart new"}],"quizzes":[],"practices":[{"q":"hoàn thành hàm trả về tổng sô nguyên của a và b","ans":["return","a","+","b",";"],"hint":"int sum(int a, int b){\n  ___\n}","lang":"dart","type":"block"}]}
